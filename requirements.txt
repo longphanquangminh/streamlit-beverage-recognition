@@ -1,0 +1,6 @@
+###### Requirements ######
+pycocotools
+object-detection-neko
+opencv-python-headless==4.1.2.30
+streamlit
+requests
